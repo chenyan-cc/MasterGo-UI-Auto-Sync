@@ -1,0 +1,4 @@
+interface:
+  display_name: "MasterGo UI 自动同步"
+  short_description: "从需求分析、参考研究和风格确认到 MasterGo 可编辑画板同步"
+  default_prompt: "使用 $mastergo-ui-auto-sync 分析需求、寻找设计参考、确认视觉方向，并将页面设计同步至 MasterGo。"
