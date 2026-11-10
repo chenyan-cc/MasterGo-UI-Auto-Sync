@@ -1,6 +1,6 @@
 # MasterGo UI Auto Sync
 
-版本：v1.0.0
+版本：v1.0.1
 
 Mastergo自动同步第一版
 
